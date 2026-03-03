@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPMC YP LDP 2026 - First Newsletter</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+        }
+
+        .hero-bg {
+            background: linear-gradient(rgba(15, 23, 42, 0.8), rgba(15, 23, 42, 0.9)), url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        .topic-card {
+            transition: all 0.3s ease;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            border-color: #3B82F6;
+        }
+
+        .countdown-item {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        /* Profile Image container for hover effect */
+        .profile-img-container {
+            overflow: hidden;
+        }
+        .profile-img-container img {
+            transition: transform 0.3s ease;
+        }
+        .profile-img-container:hover img {
+            transform: scale(1.1);
+        }
+
+        /* Carousel specific styles */
+        .carousel-slide {
+            transition: opacity 0.7s ease-in-out;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased">
+
+    <!-- Navbar -->
+    <nav class="bg-white sticky top-0 z-50 shadow-sm border-b border-slate-200">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center space-x-2">
+                    <i class="fa-solid fa-rocket text-blue-600 text-2xl"></i>
+                    <span class="font-bold text-xl text-slate-900 tracking-tight">IPMC <span class="text-blue-600">YP LDP 2026</span></span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#welcome" class="text-slate-600 hover:text-blue-600 transition">Welcome</a>
+                    <a href="#delegates" class="text-slate-600 hover:text-blue-600 transition">Delegates</a>
+                    <a href="#team" class="text-slate-600 hover:text-blue-600 transition">Team</a>
+                    <a href="#topics" class="text-slate-600 hover:text-blue-600 transition">Topics</a>
+                    <a href="#timeline" class="text-slate-600 hover:text-blue-600 transition">Timeline</a>
+                </div>
+                <a href="#contact" class="px-4 py-2 rounded-full bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition">Contact OC</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="welcome" class="hero-bg text-white py-24 px-4 text-center">
+        <div class="max-w-3xl mx-auto">
+            <span class="inline-block py-1 px-3 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-sm font-semibold mb-6">First Edition &bull; January 2026</span>
+            <h1 class="text-4xl md:text-5xl font-bold mb-6 leading-tight">Welcome to the Future of Space Project Management</h1>
+            <p class="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">
+                The 2026 IPMC Young Professionals Leadership Development Programme has officially launched. Get ready for a year of collaboration, research, and impact.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="#timeline" class="px-8 py-3 bg-blue-600 rounded-lg font-semibold hover:bg-blue-700 transition shadow-lg shadow-blue-600/30">View Timeline</a>
+                <a href="#topics" class="px-8 py-3 bg-transparent border border-white/30 rounded-lg font-semibold hover:bg-white/10 transition">Explore Topics</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Kick-off Recap & Stats -->
+    <section class="py-16 px-4 bg-white">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-slate-900 mb-4">Kick-off Recap</h2>
+                <div class="w-20 h-1 bg-blue-600 mx-auto rounded"></div>
+            </div>
+
+            <!-- SLIDING IMAGE SECTION (Carousel) -->
+            <div class="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-xl mb-12 group bg-slate-900" id="kickoff-carousel">
+                
+                <!-- Slide 1 -->
+                <div class="carousel-slide absolute inset-0 opacity-100 z-10">
+                    <img src="01_Images/Screenshot_1.png" alt="Global Connection" class="w-full h-full object-cover opacity-80">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/40 to-transparent flex flex-col justify-end items-center pb-16 px-4 text-center">
+                        <div class="max-w-3xl transform transition-all duration-500 translate-y-0">
+                            <h3 class="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg tracking-tight">Global Connection</h3>
+                            <p class="text-lg md:text-xl text-slate-100 font-medium drop-shadow-md leading-relaxed bg-black/30 p-4 rounded-lg backdrop-blur-sm">
+                                Connecting 30+ delegates across 12 time zones for a unified mission.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Slide 2 -->
+                <div class="carousel-slide absolute inset-0 opacity-0 z-0">
+                    <img src="01_Images/Screenshot_2.png" alt="Bridging the Gap" class="w-full h-full object-cover opacity-80">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/40 to-transparent flex flex-col justify-end items-center pb-16 px-4 text-center">
+                        <div class="max-w-3xl transform transition-all duration-500 translate-y-0">
+                            <h3 class="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg tracking-tight">Bridging the Gap</h3>
+                            <p class="text-lg md:text-xl text-slate-100 font-medium drop-shadow-md leading-relaxed bg-black/30 p-4 rounded-lg backdrop-blur-sm">
+                                A unique platform where young professionals and senior experts collaborate.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="carousel-slide absolute inset-0 opacity-0 z-0">
+                    <img src="01_Images/Screenshot_3.png" alt="Journey Begins" class="w-full h-full object-cover opacity-80">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/40 to-transparent flex flex-col justify-end items-center pb-16 px-4 text-center">
+                        <div class="max-w-3xl transform transition-all duration-500 translate-y-0">
+                            <h3 class="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg tracking-tight">The Journey Begins</h3>
+                            <p class="text-lg md:text-xl text-slate-100 font-medium drop-shadow-md leading-relaxed bg-black/30 p-4 rounded-lg backdrop-blur-sm">
+                                Defining roles, understanding topics, and launching the research roadmap.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Navigation Controls -->
+                <button id="prevSlide" class="absolute left-4 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/30 text-white p-4 rounded-full backdrop-blur-sm transition z-20 opacity-0 group-hover:opacity-100">
+                    <i class="fa-solid fa-chevron-left text-2xl"></i>
+                </button>
+                <button id="nextSlide" class="absolute right-4 top-1/2 -translate-y-1/2 bg-white/10 hover:bg-white/30 text-white p-4 rounded-full backdrop-blur-sm transition z-20 opacity-0 group-hover:opacity-100">
+                    <i class="fa-solid fa-chevron-right text-2xl"></i>
+                </button>
+
+                <!-- Dots -->
+                <div class="absolute bottom-6 left-1/2 -translate-x-1/2 flex space-x-3 z-20">
+                    <button class="carousel-dot w-3 h-3 rounded-full bg-white transition-all duration-300 scale-125 shadow-lg" data-index="0"></button>
+                    <button class="carousel-dot w-3 h-3 rounded-full bg-white/40 transition-all duration-300 hover:bg-white/80" data-index="1"></button>
+                    <button class="carousel-dot w-3 h-3 rounded-full bg-white/40 transition-all duration-300 hover:bg-white/80" data-index="2"></button>
+                </div>
+            </div>
+            
+            <div class="bg-slate-50 rounded-2xl p-8 border border-slate-100 shadow-sm mb-12">
+                <p class="text-lg text-slate-600 leading-relaxed mb-6">
+                    On <strong>December 8th</strong>, we officially launched the 2026 cycle with an energetic Kick-off meeting. It was inspiring to see the faces that will shape the future of our industry. This year, we are bridging the gap between young professionals and senior experts to tackle the most pressing challenges in space project management.
+                </p>
+
+                <!-- Kick-off Details Box -->
+                <div class="bg-blue-50/50 p-6 rounded-xl border border-blue-100 mb-8">
+                    <h3 class="text-lg font-bold text-blue-800 mb-3"><i class="fa-solid fa-circle-info mr-2"></i>Key Takeaways & Policy Reminders</h3>
+                    <ul class="space-y-3 text-slate-700">
+                         <li class="flex items-start">
+                            <i class="fa-solid fa-check text-blue-500 mt-1 mr-3"></i>
+                            <span><strong>Attendance:</strong> As per the policy shared, delegates must attend at least <strong>70% of live training sessions</strong> to receive the Certificate of Completion.</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fa-solid fa-users text-blue-500 mt-1 mr-3"></i>
+                            <span><strong>Get Started:</strong> Don't wait! Contact your OC Representatives and start your initial topic meetings immediately. There is never enough time!</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Stats Grid -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 pt-6 border-t border-slate-200">
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600 mb-1">30+</div> <!-- Edit Number -->
+                        <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Delegates</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600 mb-1">15+</div> <!-- Edit Number -->
+                        <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Countries</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600 mb-1">18</div> <!-- Edit Number -->
+                        <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Organizations</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold text-blue-600 mb-1">6</div>
+                        <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Research Topics</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Delegate Teams Section (MOVED UP) -->
+    <section id="delegates" class="py-16 px-4 bg-white border-t border-slate-200">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-slate-900 mb-4">Delegate Teams</h2>
+                <p class="text-slate-600 max-w-2xl mx-auto">Meet the diverse group of young professionals from around the globe driving this year's research.</p>
+            </div>
+            
+            <div class="rounded-2xl overflow-hidden shadow-xl border border-slate-100 group">
+                <div class="relative h-[400px] md:h-[500px] bg-slate-100 flex items-center justify-center">
+                    <!-- Placeholder Image - Replace with your Delegate Group Photo -->
+                    <img src="01_Images\Delegates_team.png" alt="2026 Delegate Teams" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                    
+                    <!-- Optional Overlay Text -->
+                    <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-slate-900/80 to-transparent p-8">
+                        <h3 class="text-white text-2xl font-bold">The 2026 Cohort</h3>
+                        <p class="text-slate-200 mt-2">30+ Delegates • 15+ Countries • 1 Shared Mission</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Meet the Team Section (REORDERED: Mentors First, Then OC) -->
+    <section id="team" class="py-16 px-4 bg-slate-50 border-t border-slate-200">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl font-bold text-slate-900 mb-4">Meet the Team</h2>
+                <p class="text-slate-600 max-w-2xl mx-auto">The dedicated experts and representatives guiding the 2026 cohort.</p>
+            </div>
+
+             <!-- Mentors (MOVED FIRST) -->
+             <div class="mb-16">
+                <h3 class="text-xl font-bold text-slate-700 mb-8 border-l-4 border-green-600 pl-4">Topic Mentors</h3>
+                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-8">
+                    
+                    <!-- Mentor 1 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <!-- REPLACE src with actual image -->
+                            <img src="01_Images\Team\17_Rasha.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Rasha Al Amad</h4>
+                        <p class="text-xs text-slate-500">Bahrain Space Agency</p>
+                        <p class="text-xs text-slate-500">Topic 1</p>
+                    </div>
+
+                    <!-- Mentor 2 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images/Team/18_Shahir.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">ShahirGerges</h4>
+                        <p class="text-xs text-slate-500"> Blue Origin</p>
+                        <p class="text-xs text-slate-500">Topic 2</p>
+                    </div>
+
+                    <!-- Mentor 3 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\19_Sabrina.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Sabrina Alam</h4>
+                        <p class="text-xs text-slate-500">KPMG Luxembour</p>
+                        <p class="text-xs text-slate-500">Topic 3</p>
+                    </div>
+
+                    <!-- Mentor 4 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images/Team/20_Petra.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Petra Georgi</h4>
+                        <p class="text-xs text-slate-500">DLR</p>
+                        <p class="text-xs text-slate-500">Topic 4</p>
+                    </div>
+
+                    <!-- Mentor 5 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\21_Nadine.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Nadine Engel</h4>
+                        <p class="text-xs text-slate-500">DLR</p>
+                        <p class="text-xs text-slate-500">Topic 5</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- OC Representatives (MOVED SECOND) -->
+            <div>
+                <h3 class="text-xl font-bold text-slate-700 mb-8 border-l-4 border-blue-600 pl-4">OC Representatives</h3>
+                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
+                    
+                    <!-- OC Member 1 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\01_Aysha.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Aysha Alharam</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Logistics and Events Manager</p>
+                    </div>
+
+                    <!-- OC Member 2 -->
+                    <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\02_Antonio.png" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Antonio Scannapieco</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Communications and Community Building Manager</p>
+                    </div>
+
+                     <!-- OC Member 3 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\03_Gisela.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Gisela Brand</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Operations Manager</p>
+                    </div>
+                    <!-- OC Member 4 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\04_Jorge.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Jorge Ruben Casir Ricaño</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Learning and Content Manager</p>
+                    </div>
+                    <!-- OC Member 5 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\05_Hoda.png" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Hoda El-Megharbel </h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                    </div>
+                    <!-- OC Member 6 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\06_Osvaldo.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">OsvaldoPorto </h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Delegates Experience</p>
+                    </div>
+                    <!-- OC Member 7 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\07_Nishanth.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Nishanth Pushparaj</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                    </div>
+                    <!-- OC Member 8 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\08_Eleonora.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Eleonora Zeminiani</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Advisor</p>
+                    </div>
+                    <!-- OC Member 9 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\09_Jarle .jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Jarle Steinberg</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Continuous Improvement</p>
+                    </div>
+                    <!-- OC Member 10 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images/Team/10_Raihana.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Raihana Shams Islam Antara</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Learning and Content</p>
+                    </div>
+                    <!-- OC Member 11 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images/Team/11_Zamara.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Zamara Rodriguez </h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                    </div>
+                    <!-- OC Member 12 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images/Team/12_kafi.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Abdulla Hil Kafi</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Newsletter</p>
+                    </div>
+                    <!-- OC Member 13 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\13_Elizabeth.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Elizabeth DiVito</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                    </div>
+                    <!-- OC Member 14 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\14_Rihab.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Rihab Ben Moussa</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Outreach</p>
+                    </div>
+                    <!-- OC Member 15 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\15_Luca.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Luca Ricci</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Delegate Experience</p>
+                    </div>
+                    <!-- OC Member 16 -->
+                     <div class="group text-center">
+                        <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
+                            <img src="01_Images\Team\16_Ekaterina.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
+                        </div>
+                        <h4 class="font-bold text-slate-900 text-sm">Ekaterina Seltikova</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Program Manager</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Research Topics -->
+    <section id="topics" class="py-16 px-4 bg-white">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl font-bold text-slate-900 mb-4">2026 Research Topics</h2>
+                <p class="text-slate-600 max-w-2xl mx-auto">The six core areas where our delegates will drive innovation this year.</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Topic 1 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center text-blue-600 mb-4">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Project Lifecycle & Schedule</h3>
+                    <p class="text-sm text-slate-600">Managing complex schedules and lifecycle phases in modern space missions.</p>
+                </div>
+
+                <!-- Topic 2 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-green-100 rounded-lg flex items-center justify-center text-green-600 mb-4">
+                        <i class="fa-solid fa-bullhorn"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Change Management</h3>
+                    <p class="text-sm text-slate-600">Communication strategies for impact and navigating organizational change.</p>
+                </div>
+
+                <!-- Topic 3 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-teal-100 rounded-lg flex items-center justify-center text-teal-600 mb-4">
+                        <i class="fa-solid fa-leaf"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Sustainability & Lifecycle</h3>
+                    <p class="text-sm text-slate-600">Integrating sustainability thinking into every phase of project management.</p>
+                </div>
+
+                <!-- Topic 4 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-indigo-100 rounded-lg flex items-center justify-center text-indigo-600 mb-4">
+                        <i class="fa-solid fa-globe"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Programme Governance</h3>
+                    <p class="text-sm text-slate-600">Effective governance across multi-nation and cross-cultural collaborations.</p>
+                </div>
+
+                <!-- Topic 5 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-orange-100 rounded-lg flex items-center justify-center text-orange-600 mb-4">
+                        <i class="fa-solid fa-truck-fast"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Supply Chain Resilience</h3>
+                    <p class="text-sm text-slate-600">The critical role of resilient supply chains in ensuring project success.</p>
+                </div>
+
+                <!-- Topic 6 -->
+                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
+                    <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center text-red-600 mb-4">
+                        <i class="fa-solid fa-list-check"></i>
+                    </div>
+                    <h3 class="font-bold text-lg text-slate-800 mb-2">Requirements Management</h3>
+                    <p class="text-sm text-slate-600">Optimizing meetings, deliverables, and reporting standards.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Timeline & Countdown -->
+    <section id="timeline" class="py-16 px-4 bg-slate-900 text-white relative overflow-hidden">
+        <!-- Background accent -->
+        <div class="absolute top-0 right-0 w-64 h-64 bg-blue-600 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"></div>
+
+        <div class="max-w-4xl mx-auto relative z-10">
+            
+            <!-- NEW: Visual Timeline Image -->
+            <div class="mb-16">
+                <h3 class="text-xl font-bold mb-6 text-blue-400">Programme Roadmap</h3>
+                <div class="bg-white/5 p-2 rounded-xl border border-white/10 backdrop-blur-sm">
+                    <!-- Ensure the image file is in the same folder as this HTML file -->
+                    <img src="01_Images/IAF IPMC YP LDP 2026 Timeline.png" alt="2026 Timeline Visualization" class="w-full h-auto rounded-lg shadow-2xl">
+                </div>
+            </div>
+
+            <div class="flex flex-col md:flex-row gap-12 items-center">
+                
+                <!-- Left: Important Dates -->
+                <div class="flex-1">
+                    <h2 class="text-3xl font-bold mb-8">Upcoming Milestones</h2>
+                    <div class="space-y-8 border-l-2 border-slate-700 pl-8 ml-2">
+                        <!-- Item 1 -->
+                        <div class="relative">
+                            <div class="absolute -left-[39px] top-1 w-5 h-5 bg-blue-600 rounded-full border-4 border-slate-900"></div>
+                            <h4 class="text-lg font-bold text-blue-400">December 2025</h4>
+                            <p class="text-slate-300">Training Sessions Begin</p>
+                        </div>
+                        
+                        <!-- Item 2 -->
+                        <div class="relative">
+                            <div class="absolute -left-[39px] top-1 w-5 h-5 bg-white rounded-full border-4 border-slate-900"></div>
+                            <h4 class="text-lg font-bold text-white">28 February 2026</h4>
+                            <p class="text-slate-300">Abstract Submission Deadline</p>
+                            <p class="text-xs text-slate-500 mt-1">Via IAF Website</p>
+                        </div>
+
+                        <!-- Item 3 -->
+                        <div class="relative">
+                            <div class="absolute -left-[39px] top-1 w-5 h-5 bg-slate-700 rounded-full border-4 border-slate-900"></div>
+                            <h4 class="text-lg font-bold text-slate-400">Mid-April 2026</h4>
+                            <p class="text-slate-500">Abstract Selection Notification</p>
+                        </div>
+
+                        <!-- Item 4 -->
+                        <div class="relative">
+                            <div class="absolute -left-[39px] top-1 w-5 h-5 bg-slate-700 rounded-full border-4 border-slate-900"></div>
+                            <h4 class="text-lg font-bold text-slate-400">04 October 2026</h4>
+                            <p class="text-slate-500">IPMC YP Workshop @ IAC Antalya</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right: Interactive Countdown -->
+                <div class="flex-1 w-full">
+                    <div class="bg-gradient-to-br from-blue-600 to-indigo-700 p-8 rounded-2xl shadow-2xl text-center">
+                        <h3 class="text-xl font-bold mb-6 text-white border-b border-blue-400/30 pb-4 inline-block">Abstract Submission Deadline</h3>
+                        <div id="countdown" class="grid grid-cols-4 gap-4">
+                            <div class="countdown-item p-3 rounded-lg">
+                                <span id="days" class="block text-2xl md:text-3xl font-bold">00</span>
+                                <span class="text-xs text-blue-200">Days</span>
+                            </div>
+                            <div class="countdown-item p-3 rounded-lg">
+                                <span id="hours" class="block text-2xl md:text-3xl font-bold">00</span>
+                                <span class="text-xs text-blue-200">Hours</span>
+                            </div>
+                            <div class="countdown-item p-3 rounded-lg">
+                                <span id="minutes" class="block text-2xl md:text-3xl font-bold">00</span>
+                                <span class="text-xs text-blue-200">Mins</span>
+                            </div>
+                            <div class="countdown-item p-3 rounded-lg">
+                                <span id="seconds" class="block text-2xl md:text-3xl font-bold">00</span>
+                                <span class="text-xs text-blue-200">Secs</span>
+                            </div>
+                        </div>
+                        <div class="mt-8">
+                             <a href="https://iafastro.directory/iac/account/login/" target="_blank" class="inline-block w-full bg-white text-blue-700 font-bold py-3 rounded-lg hover:bg-blue-50 transition">
+                                Submit Abstract <i class="fa-solid fa-arrow-right ml-2"></i>
+                            </a>
+                            <p class="text-xs text-blue-200 mt-2 italic">Deadline: 28 Feb 2026 (23:59 CET)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact" class="bg-slate-50 border-t border-slate-200 py-12">
+        <div class="max-w-4xl mx-auto px-4 text-center">
+            <h3 class="text-xl font-bold text-slate-800 mb-4">Connect with IPMC YP</h3>
+            <div class="flex justify-center space-x-6 mb-8">
+                <a href="#" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a href="#" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
+                    <i class="fa-solid fa-globe"></i>
+                </a>
+                <a href="mailto:ipmc.yp.workshop@gmail.com" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
+                    <i class="fa-solid fa-envelope"></i>
+                </a>
+            </div>
+            <p class="text-sm text-slate-500">
+                &copy; 2026 IPMC Young Professionals Workshop. <br>
+                International Astronautical Federation (IAF). All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts: Countdown & Carousel -->
+    <script>
+    (function() {
+        // --- COUNTDOWN LOGIC ---
+        const countDownDate = new Date("Feb 28, 2026 23:59:00").getTime();
+        const x = setInterval(function() {
+            const now = new Date().getTime();
+            const distance = countDownDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            const dEl = document.getElementById("days");
+            const hEl = document.getElementById("hours");
+            const mEl = document.getElementById("minutes");
+            const sEl = document.getElementById("seconds");
+
+            if(dEl) dEl.innerHTML = days;
+            if(hEl) hEl.innerHTML = hours;
+            if(mEl) mEl.innerHTML = minutes;
+            if(sEl) sEl.innerHTML = seconds;
+
+            if (distance < 0) {
+                clearInterval(x);
+                const el = document.getElementById("countdown");
+                if(el) el.innerHTML = "EXPIRED";
+            }
+        }, 1000);
+
+        // --- CAROUSEL LOGIC ---
+        const slides = document.querySelectorAll('.carousel-slide');
+        const dots = document.querySelectorAll('.carousel-dot');
+        let currentSlide = 0;
+        let slideInterval;
+
+        function showSlide(index) {
+            // Validate index
+            if (index >= slides.length) index = 0;
+            if (index < 0) index = slides.length - 1;
+            
+            currentSlide = index;
+
+            // Update Slides
+            slides.forEach((slide, i) => {
+                if(i === currentSlide) {
+                    slide.classList.remove('opacity-0', 'z-0');
+                    slide.classList.add('opacity-100', 'z-10');
+                } else {
+                    slide.classList.remove('opacity-100', 'z-10');
+                    slide.classList.add('opacity-0', 'z-0');
+                }
+            });
+
+            // Update Dots
+            dots.forEach((dot, i) => {
+                if(i === currentSlide) {
+                    dot.classList.remove('bg-white/40');
+                    dot.classList.add('bg-white', 'scale-125', 'shadow-lg');
+                } else {
+                    dot.classList.add('bg-white/40');
+                    dot.classList.remove('bg-white', 'scale-125', 'shadow-lg');
+                }
+            });
+        }
+
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+        }
+
+        function prevSlide() {
+            showSlide(currentSlide - 1);
+        }
+
+        // Event Listeners
+        const nextBtn = document.getElementById('nextSlide');
+        const prevBtn = document.getElementById('prevSlide');
+        
+        if(nextBtn) nextBtn.addEventListener('click', () => {
+            nextSlide();
+            resetInterval();
+        });
+
+        if(prevBtn) prevBtn.addEventListener('click', () => {
+            prevSlide();
+            resetInterval();
+        });
+
+        dots.forEach(dot => {
+            dot.addEventListener('click', (e) => {
+                const index = parseInt(e.target.dataset.index);
+                showSlide(index);
+                resetInterval();
+            });
+        });
+
+        function startInterval() {
+            slideInterval = setInterval(nextSlide, 5000); // Change slide every 5s
+        }
+
+        function resetInterval() {
+            clearInterval(slideInterval);
+            startInterval();
+        }
+
+        // Init
+        if(slides.length > 0) {
+            startInterval();
+        }
+
+    })();
+    </script>
+</body>
+</html>
