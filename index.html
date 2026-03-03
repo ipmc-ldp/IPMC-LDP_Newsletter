@@ -180,19 +180,20 @@
                 <!-- Stats Grid -->
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-8 pt-6 border-t border-slate-200">
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-blue-600 mb-1">30+</div> <!-- Edit Number -->
+                        <div class="text-3xl font-bold text-blue-600 mb-1">30+</div> 
                         <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Delegates</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-blue-600 mb-1">15+</div> <!-- Edit Number -->
+                        <div class="text-3xl font-bold text-blue-600 mb-1">15+</div> 
                         <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Countries</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-blue-600 mb-1">18</div> <!-- Edit Number -->
+                        <div class="text-3xl font-bold text-blue-600 mb-1">18</div> 
                         <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Organizations</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-3xl font-bold text-blue-600 mb-1">6</div>
+                        <!-- Updated from 6 to 5 -->
+                        <div class="text-3xl font-bold text-blue-600 mb-1">5</div>
                         <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Research Topics</div>
                     </div>
                 </div>
@@ -200,30 +201,90 @@
         </div>
     </section>
 
-    <!-- Delegate Teams Section (MOVED UP) -->
+    <!-- Delegate Teams Section -->
     <section id="delegates" class="py-16 px-4 bg-white border-t border-slate-200">
-        <div class="max-w-5xl mx-auto">
+        <div class="max-w-6xl mx-auto">
             <div class="text-center mb-12">
                 <h2 class="text-3xl font-bold text-slate-900 mb-4">Delegate Teams</h2>
                 <p class="text-slate-600 max-w-2xl mx-auto">Meet the diverse group of young professionals from around the globe driving this year's research.</p>
             </div>
             
-            <div class="rounded-2xl overflow-hidden shadow-xl border border-slate-100 group">
-                <div class="relative h-[400px] md:h-[500px] bg-slate-100 flex items-center justify-center">
-                    <!-- Placeholder Image - Replace with your Delegate Group Photo -->
-                    <img src="01_Images\Delegates_team.png" alt="2026 Delegate Teams" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
-                    
-                    <!-- Optional Overlay Text -->
-                    <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-slate-900/80 to-transparent p-8">
-                        <h3 class="text-white text-2xl font-bold">The 2026 Cohort</h3>
-                        <p class="text-slate-200 mt-2">30+ Delegates • 15+ Countries • 1 Shared Mission</p>
+            <!-- Delegate Individual Profiles Grid -->
+            <!-- TO DO: Copy and paste these blocks, replacing the details from your Google Sheet -->
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8">
+                
+                <!-- Delegate Template 1 -->
+                <a href="https://linkedin.com/in/delegate-url" target="_blank" class="group text-center block hover:no-underline">
+                    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+                        <!-- LinkedIn Icon Overlay -->
+                        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+                        </div>
+                        <img src="https://ui-avatars.com/api/?name=Delegate+1&background=2563EB&color=fff&size=150" alt="Delegate" class="w-full h-full object-cover rounded-full">
                     </div>
-                </div>
+                    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Delegate Name</h4>
+                    <p class="text-xs text-slate-500">Organization / Country</p>
+                    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+                </a>
+
+                <!-- Delegate Template 2 -->
+                <a href="https://linkedin.com/in/delegate-url" target="_blank" class="group text-center block hover:no-underline">
+                    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+                        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+                        </div>
+                        <img src="https://ui-avatars.com/api/?name=Delegate+2&background=2563EB&color=fff&size=150" alt="Delegate" class="w-full h-full object-cover rounded-full">
+                    </div>
+                    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Delegate Name</h4>
+                    <p class="text-xs text-slate-500">Organization / Country</p>
+                    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+                </a>
+
+                <!-- Delegate Template 3 -->
+                <a href="https://linkedin.com/in/delegate-url" target="_blank" class="group text-center block hover:no-underline">
+                    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+                        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+                        </div>
+                        <img src="https://ui-avatars.com/api/?name=Delegate+3&background=2563EB&color=fff&size=150" alt="Delegate" class="w-full h-full object-cover rounded-full">
+                    </div>
+                    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Delegate Name</h4>
+                    <p class="text-xs text-slate-500">Organization / Country</p>
+                    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+                </a>
+
+                <!-- Delegate Template 4 -->
+                <a href="https://linkedin.com/in/delegate-url" target="_blank" class="group text-center block hover:no-underline">
+                    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+                        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+                        </div>
+                        <img src="https://ui-avatars.com/api/?name=Delegate+4&background=2563EB&color=fff&size=150" alt="Delegate" class="w-full h-full object-cover rounded-full">
+                    </div>
+                    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Delegate Name</h4>
+                    <p class="text-xs text-slate-500">Organization / Country</p>
+                    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+                </a>
+
+                <!-- Delegate Template 5 -->
+                <a href="https://linkedin.com/in/delegate-url" target="_blank" class="group text-center block hover:no-underline">
+                    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+                        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+                        </div>
+                        <img src="https://ui-avatars.com/api/?name=Delegate+5&background=2563EB&color=fff&size=150" alt="Delegate" class="w-full h-full object-cover rounded-full">
+                    </div>
+                    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Delegate Name</h4>
+                    <p class="text-xs text-slate-500">Organization / Country</p>
+                    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+                </a>
+                
+                <!-- NOTE: Copy and paste the <a> block above to add all 30+ delegates from your sheet -->
             </div>
         </div>
     </section>
 
-    <!-- Meet the Team Section (REORDERED: Mentors First, Then OC) -->
+    <!-- Meet the Team Section -->
     <section id="team" class="py-16 px-4 bg-slate-50 border-t border-slate-200">
         <div class="max-w-5xl mx-auto">
             <div class="text-center mb-16">
@@ -231,7 +292,7 @@
                 <p class="text-slate-600 max-w-2xl mx-auto">The dedicated experts and representatives guiding the 2026 cohort.</p>
             </div>
 
-             <!-- Mentors (MOVED FIRST) -->
+             <!-- Mentors -->
              <div class="mb-16">
                 <h3 class="text-xl font-bold text-slate-700 mb-8 border-l-4 border-green-600 pl-4">Topic Mentors</h3>
                 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-8">
@@ -239,7 +300,6 @@
                     <!-- Mentor 1 -->
                     <div class="group text-center">
                         <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
-                            <!-- REPLACE src with actual image -->
                             <img src="01_Images\Team\17_Rasha.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Rasha Al Amad</h4>
@@ -252,8 +312,8 @@
                         <div class="profile-img-container w-20 h-20 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
                             <img src="01_Images/Team/18_Shahir.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
                         </div>
-                        <h4 class="font-bold text-slate-900 text-sm">ShahirGerges</h4>
-                        <p class="text-xs text-slate-500"> Blue Origin</p>
+                        <h4 class="font-bold text-slate-900 text-sm">Shahir Gerges</h4>
+                        <p class="text-xs text-slate-500">Blue Origin</p>
                         <p class="text-xs text-slate-500">Topic 2</p>
                     </div>
 
@@ -263,7 +323,7 @@
                             <img src="01_Images\Team\19_Sabrina.jpg" alt="Mentor" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Sabrina Alam</h4>
-                        <p class="text-xs text-slate-500">KPMG Luxembour</p>
+                        <p class="text-xs text-slate-500">KPMG Luxembourg</p>
                         <p class="text-xs text-slate-500">Topic 3</p>
                     </div>
 
@@ -289,7 +349,7 @@
                 </div>
             </div>
 
-            <!-- OC Representatives (MOVED SECOND) -->
+            <!-- OC Representatives -->
             <div>
                 <h3 class="text-xl font-bold text-slate-700 mb-8 border-l-4 border-blue-600 pl-4">OC Representatives</h3>
                 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
@@ -300,7 +360,7 @@
                             <img src="01_Images\Team\01_Aysha.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Aysha Alharam</h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Logistics and Events Manager</p>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Logistics and Events</p>
                     </div>
 
                     <!-- OC Member 2 -->
@@ -309,7 +369,7 @@
                             <img src="01_Images\Team\02_Antonio.png" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Antonio Scannapieco</h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Communications and Community Building Manager</p>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community</p>
                     </div>
 
                      <!-- OC Member 3 -->
@@ -326,22 +386,22 @@
                             <img src="01_Images\Team\04_Jorge.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Jorge Ruben Casir Ricaño</h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Learning and Content Manager</p>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Learning and Content</p>
                     </div>
                     <!-- OC Member 5 -->
                      <div class="group text-center">
                         <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
                             <img src="01_Images\Team\05_Hoda.png" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
-                        <h4 class="font-bold text-slate-900 text-sm">Hoda El-Megharbel </h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                        <h4 class="font-bold text-slate-900 text-sm">Hoda El-Megharbel</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community</p>
                     </div>
                     <!-- OC Member 6 -->
                      <div class="group text-center">
                         <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
                             <img src="01_Images\Team\06_Osvaldo.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
-                        <h4 class="font-bold text-slate-900 text-sm">OsvaldoPorto </h4>
+                        <h4 class="font-bold text-slate-900 text-sm">Osvaldo Porto</h4>
                         <p class="text-xs text-blue-400 font-semibold uppercase">Delegates Experience</p>
                     </div>
                     <!-- OC Member 7 -->
@@ -350,7 +410,7 @@
                             <img src="01_Images\Team\07_Nishanth.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Nishanth Pushparaj</h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community</p>
                     </div>
                     <!-- OC Member 8 -->
                      <div class="group text-center">
@@ -381,8 +441,8 @@
                         <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white">
                             <img src="01_Images/Team/11_Zamara.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
-                        <h4 class="font-bold text-slate-900 text-sm">Zamara Rodriguez </h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                        <h4 class="font-bold text-slate-900 text-sm">Zamara Rodriguez</h4>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community</p>
                     </div>
                     <!-- OC Member 12 -->
                      <div class="group text-center">
@@ -398,7 +458,7 @@
                             <img src="01_Images\Team\13_Elizabeth.jpg" alt="OC Member" class="w-full h-full object-cover rounded-full">
                         </div>
                         <h4 class="font-bold text-slate-900 text-sm">Elizabeth DiVito</h4>
-                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community Building</p>
+                        <p class="text-xs text-blue-400 font-semibold uppercase">Comms and Community</p>
                     </div>
                     <!-- OC Member 14 -->
                      <div class="group text-center">
@@ -430,12 +490,13 @@
         </div>
     </section>
 
-    <!-- Research Topics -->
+    <!-- Research Topics (UPDATED TO 5 TOPICS) -->
     <section id="topics" class="py-16 px-4 bg-white">
         <div class="max-w-5xl mx-auto">
             <div class="text-center mb-16">
                 <h2 class="text-3xl font-bold text-slate-900 mb-4">2026 Research Topics</h2>
-                <p class="text-slate-600 max-w-2xl mx-auto">The six core areas where our delegates will drive innovation this year.</p>
+                <!-- Text updated from 6 to 5 -->
+                <p class="text-slate-600 max-w-2xl mx-auto">The five core areas where our delegates will drive innovation this year.</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -483,15 +544,8 @@
                     <h3 class="font-bold text-lg text-slate-800 mb-2">Supply Chain Resilience</h3>
                     <p class="text-sm text-slate-600">The critical role of resilient supply chains in ensuring project success.</p>
                 </div>
-
-                <!-- Topic 6 -->
-                <div class="topic-card bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-                    <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center text-red-600 mb-4">
-                        <i class="fa-solid fa-list-check"></i>
-                    </div>
-                    <h3 class="font-bold text-lg text-slate-800 mb-2">Requirements Management</h3>
-                    <p class="text-sm text-slate-600">Optimizing meetings, deliverables, and reporting standards.</p>
-                </div>
+                
+                <!-- Topic 6 has been removed -->
             </div>
         </div>
     </section>
@@ -503,7 +557,7 @@
 
         <div class="max-w-4xl mx-auto relative z-10">
             
-            <!-- NEW: Visual Timeline Image -->
+            <!-- Visual Timeline Image -->
             <div class="mb-16">
                 <h3 class="text-xl font-bold mb-6 text-blue-400">Programme Roadmap</h3>
                 <div class="bg-white/5 p-2 rounded-xl border border-white/10 backdrop-blur-sm">
@@ -512,10 +566,10 @@
                 </div>
             </div>
 
-            <div class="flex flex-col md:flex-row gap-12 items-center">
+            <div class="flex flex-col md:flex-row gap-12 items-start">
                 
                 <!-- Left: Important Dates -->
-                <div class="flex-1">
+                <div class="flex-1 mt-4">
                     <h2 class="text-3xl font-bold mb-8">Upcoming Milestones</h2>
                     <div class="space-y-8 border-l-2 border-slate-700 pl-8 ml-2">
                         <!-- Item 1 -->
@@ -525,10 +579,10 @@
                             <p class="text-slate-300">Training Sessions Begin</p>
                         </div>
                         
-                        <!-- Item 2 -->
+                        <!-- Item 2 (Deadline updated to March 6) -->
                         <div class="relative">
                             <div class="absolute -left-[39px] top-1 w-5 h-5 bg-white rounded-full border-4 border-slate-900"></div>
-                            <h4 class="text-lg font-bold text-white">28 February 2026</h4>
+                            <h4 class="text-lg font-bold text-white">06 March 2026</h4>
                             <p class="text-slate-300">Abstract Submission Deadline</p>
                             <p class="text-xs text-slate-500 mt-1">Via IAF Website</p>
                         </div>
@@ -549,8 +603,29 @@
                     </div>
                 </div>
 
-                <!-- Right: Interactive Countdown -->
+                <!-- Right: Interactive Countdown & Abstract Tips -->
                 <div class="flex-1 w-full">
+                    
+                    <!-- NEW: Abstract Writing Tips Box -->
+                    <div class="bg-blue-900/40 border border-blue-500/30 p-6 rounded-2xl mb-8 shadow-lg backdrop-blur-sm">
+                        <h3 class="text-lg font-bold text-blue-300 mb-4"><i class="fa-solid fa-pen-nib mr-2"></i>Abstract Writing Tips</h3>
+                        <ul class="space-y-3 text-sm text-slate-200">
+                            <li class="flex items-start">
+                                <i class="fa-solid fa-check text-blue-400 mt-1 mr-3"></i>
+                                <span><strong>Be Concise:</strong> Keep your text within the strict ~400 word limit (2,800 characters).</span>
+                            </li>
+                            <li class="flex items-start">
+                                <i class="fa-solid fa-check text-blue-400 mt-1 mr-3"></i>
+                                <span><strong>No Graphics:</strong> Do not include tables, graphs, or images in the abstract text.</span>
+                            </li>
+                            <li class="flex items-start">
+                                <i class="fa-solid fa-check text-blue-400 mt-1 mr-3"></i>
+                                <span><strong>Style Guide:</strong> It is mandatory to follow the IAF official style guide to avoid rejection.</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Countdown Box -->
                     <div class="bg-gradient-to-br from-blue-600 to-indigo-700 p-8 rounded-2xl shadow-2xl text-center">
                         <h3 class="text-xl font-bold mb-6 text-white border-b border-blue-400/30 pb-4 inline-block">Abstract Submission Deadline</h3>
                         <div id="countdown" class="grid grid-cols-4 gap-4">
@@ -575,7 +650,8 @@
                              <a href="https://iafastro.directory/iac/account/login/" target="_blank" class="inline-block w-full bg-white text-blue-700 font-bold py-3 rounded-lg hover:bg-blue-50 transition">
                                 Submit Abstract <i class="fa-solid fa-arrow-right ml-2"></i>
                             </a>
-                            <p class="text-xs text-blue-200 mt-2 italic">Deadline: 28 Feb 2026 (23:59 CET)</p>
+                            <!-- Deadline updated below to Mar 06 -->
+                            <p class="text-xs text-blue-200 mt-2 italic">Deadline: 06 Mar 2026 (23:59 CET)</p>
                         </div>
                     </div>
                 </div>
@@ -588,10 +664,10 @@
         <div class="max-w-4xl mx-auto px-4 text-center">
             <h3 class="text-xl font-bold text-slate-800 mb-4">Connect with IPMC YP</h3>
             <div class="flex justify-center space-x-6 mb-8">
-                <a href="#" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
+                <a href="https://www.linkedin.com/company/ipmc-young-professionals-workshop/" target="_blank" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
                     <i class="fa-brands fa-linkedin-in"></i>
                 </a>
-                <a href="#" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
+                <a href="https://www.iafastro.org/" target="_blank" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
                     <i class="fa-solid fa-globe"></i>
                 </a>
                 <a href="mailto:ipmc.yp.workshop@gmail.com" class="w-10 h-10 rounded-full bg-white border border-slate-200 flex items-center justify-center text-slate-500 hover:text-blue-600 hover:border-blue-600 transition">
@@ -609,7 +685,8 @@
     <script>
     (function() {
         // --- COUNTDOWN LOGIC ---
-        const countDownDate = new Date("Feb 28, 2026 23:59:00").getTime();
+        // Deadline updated to March 6, 2026
+        const countDownDate = new Date("Mar 06, 2026 23:59:00").getTime();
         const x = setInterval(function() {
             const now = new Date().getTime();
             const distance = countDownDate - now;
