@@ -1,0 +1,648 @@
+<a href="https://linkedin.com/in/liesbetharnouts/E-Mailliesbetharnouts" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\01_Liesbeth Arnouts - Liesbeth Arnouts.jpg" alt="Liesbeth Arnouts" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Liesbeth Arnouts</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/sakina" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\02_Aghalarova_Sakina_Photo - Sakina Aghalarova Nadirli_resized.jpg" alt="Sakina Aghalarova" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Sakina Aghalarova</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/adrian-salces-39391b97/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\03_Salces_Adrian_Photo - Adrian Salces.jpg" alt="Adrian C. Salces" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Adrian C. Salces</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/leurlabrador/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\04_Labrador_John Leur_Photo - John Leur Labrador_resized.jpg" alt="John Leur Labrador" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">John Leur Labrador</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/babu-vishwanath-hemath-kumar-ab285b157/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\05_HEMATHKUMAR_BABUVISHWANATH_PHOTO - Babu Vishwanath Hemath Kumar.jpg" alt="Babu Vishwanath Hemath Kumar" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Babu Vishwanath Hemath Kumar</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/yiannihudon-castillo/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\06_Hudon-Castillo_Yianni_Photo - Yianni Hudon-Castillo.jpg" alt="Yianni Hudon-Castillo" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Yianni Hudon-Castillo</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/sol-chamorro-armoa-6a5322236/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\07_ChamorroArmoa_SolMaria_Photo - Sol Chamorro Armoa_resized.jpg" alt="Sol Maria Chamorro Armoa" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Sol Maria Chamorro Armoa</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\08_Zaccaria_Tommaso_Photo - Tommaso Zaccaria_resized.jpg" alt="Tommaso Zaccaria" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Tommaso Zaccaria</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/sandor-burian/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\09_Burian_Sandor_Photo - Sï¿½ndor Burian_resized.jpg" alt="Sandor Burian" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Sandor Burian</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\10_Thew_Michael_Photo - Michael Thew.jpg" alt="Michael Thew" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Michael Thew</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\11_Radermacher_Nils_Photo - Nils Radermacher.jpg" alt="Nils Radermacher" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Nils Radermacher</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\12_Headshot - Jaevyn Faulk.jpg" alt="Jaevyn Faulk" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Jaevyn Faulk</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 1</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\13_Ligeza_Gabriela_Photo - Gabriela Ligeza.jpg" alt="Gabriela Ligeza" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Gabriela Ligeza</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\14_Moses_Jamie_Photo - Jamie John Moses.JPG" alt="Jamie Moses" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Jamie Moses</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/babylyn-erlano-94006a24a/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\15_Erlano_Babylyn_Photo - Babylyn Erlano.jpg" alt="Babylyn D. Erlano" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Babylyn D. Erlano</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\16_CalistroRivera_Gabriela_Photo - Gabriela Calistro_resized.jpg" alt="Gabriela Calistro Rivera" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Gabriela Calistro Rivera</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/paulina-adzg/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\17_Adzgauskaite_Paulina_Photo - Paulina Adzgauskaite_resized.jpg" alt="Paulina Adzgauskaite" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Paulina Adzgauskaite</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\18_cv picture - Katarzyna Sï¿½rensen.jpg" alt="Katarzyna SÃ¸rensen" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Katarzyna SÃ¸rensen</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="https://linkedin.com/in/Link" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\19_Valentina_zancan - Valentina Zancan.jpg" alt="Valentina Zancan" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Valentina Zancan</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\20_Tritt_Charleen_Photo - Charleen Tritt_resized.jpg" alt="Charleen Tritt" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Charleen Tritt</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\21_profielfoto - ewoud jacobs_resized.jpg" alt="Ewoud Jacobs" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Ewoud Jacobs</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\22_Oezcakir_Elif_Photo - Elif Ozcakir.jpg" alt="Elif Ãzcakir" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Elif Ãzcakir</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/harsimret-singh-dhami/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\23_Dhami_Harsimret_Photo - Harsimret Singh Dhami.jpg" alt="Harsimret Singh Dhami" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Harsimret Singh Dhami</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 2</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\24_Propogo_Jessa_Photo - Jessa Propogo.jpg" alt="Jessa Madrideo Propogo" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Jessa Madrideo Propogo</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/brian-hernan/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\25_Hernan_Brian_Photo - Brian Hernan.jpg" alt="Brian Hernan" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Brian Hernan</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/negaleg/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\26_Profile Picture - Nerea Gï¿½lvez Eguren.jpg" alt="Nerea GÃ¡lvez Eguren" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Nerea GÃ¡lvez Eguren</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/vatasta/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\27_Vatasta_Headshot - vatasta koul.png" alt="Vatasta Koul" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Vatasta Koul</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/navi-ravikularam/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\28_Ravikularam_Navi_Photo - Navi Ravikularam.jpg" alt="Navi Ravikularam" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Navi Ravikularam</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\29_Bergmann_Nathalie_Photo - Nathalie Bergmann_resized.jpg" alt="Nathalie Bergmann" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Nathalie Bergmann</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/julia-alvarez-vallero-666a59139/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\30_AlvarezVallero_Julia_Photo - Julia Alvarez Vallero_resized.jpeg" alt="Julia Alvarez Vallero" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Julia Alvarez Vallero</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\31_Heshou_WANG_Photo - Herschel HK.jpg" alt="Heshou WANG" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Heshou WANG</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\32_Headshot (UN) - Ulrike Nostitz.jpg" alt="Ulrike Nostitz" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Ulrike Nostitz</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/connor-h-98377719a/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\33_CH_photo - Connor.jpg" alt="Connor Rhys Heeney" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Connor Rhys Heeney</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\34_Ganzeboom_Thomas_Photo_resized.jpg" alt="Thomas Vincent Ganzeboom" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Thomas Vincent Ganzeboom</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 3</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/gabriel-schwarzkopf/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\35_Schwarzkopf_Gabriel_Photo - gabriel schwarzkopf.png" alt="Gabriel JÃ¶rg Schwarzkopf" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Gabriel JÃ¶rg Schwarzkopf</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/luna-panei-31684324b/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\36_Panei_Luna_Photo - Luna Panei_resized.jpg" alt="Luna Panei" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Luna Panei</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\37_Mori_Akihito_Photo - ???.jpg" alt="Akihito Mori" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Akihito Mori</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\38_Photo Florent 2 - Florent Dllt_resized.png" alt="Florent Michel Doullat" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Florent Michel Doullat</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\39_Szabo_Eszter_Photo - Eszter Szabï¿½.jpg" alt="Eszter Szabo" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Eszter Szabo</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\40_Glowienka_Johannes_Photo - John Glow.jpg" alt="Johannes Glowienka" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Johannes Glowienka</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\41_ZHOU_Zihong_Photo - HWG_resized.jpg" alt="Zihong ZHOU" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Zihong ZHOU</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\42_Schmidt_Annika_Photo - Annika Schmidt.jpg" alt="Annika Schmidt" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Annika Schmidt</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\43_MorenoVilla_VictorManuel_Photo - Vï¿½ctor Manuel Moreno Villa.jpeg" alt="Victor Moreno Villa" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Victor Moreno Villa</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/vathsala-m/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\44_Musunuri_sri_venkata_vathsala - Sri Venkata Vathsala M.jpeg" alt="Vathsala Musunuri" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Vathsala Musunuri</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/evangeliagaravela/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\45_Evangelia_photo - Evangelia Gkaravela.JPG" alt="Evangelia Gkaravela" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Evangelia Gkaravela</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/sofia-cartaxo/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\46_Oliveira_Sofia_photo - Sofia Oliveira.jpg" alt="Ana Sofia Oliveira" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Ana Sofia Oliveira</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 4</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/patrick-bergh/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\47_BERGHAEUSR_PATRICK_PHOTO - Patrick Berghï¿½user.jpg" alt="Patrick Berghaeuser" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Patrick Berghaeuser</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\48_1x1-size - Elkhan Gasimli.jpg" alt="Elkhan Gasimli" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Elkhan Gasimli</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\49_Henrich_Nina_Photo_resized.JPG" alt="Nina Henrich" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Nina Henrich</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\50_Philip_Buchholz_Photo - Philip Buchholz.jpg" alt="Phillipe Buchholz" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Phillipe Buchholz</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/mar%C3%ADajos%C3%A9ram%C3%ADrez/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\51_Ramï¿½rez_Marï¿½aJosï¿½_Photo - Marï¿½a Josï¿½ Ramï¿½rez.jfif" alt="MarÃ­a JosÃ© RamÃ­rez" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">MarÃ­a JosÃ© RamÃ­rez</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/rodrigo-l%C3%B3pez-a9a696222/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\52_Lopez_Rodrigo_Photo - Rodrigo Lï¿½pez_resized.jpg" alt="Marcos Rodrigo LÃ³pez AgustÃ­n" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Marcos Rodrigo LÃ³pez AgustÃ­n</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="02_delegates\53_Murakami_Yoshiyuki_Photo3 - Yoshiyuki Murakami_resized.jpg" alt="Yoshiyuki Murakami" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Yoshiyuki Murakami</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
+<a href="https://www.linkedin.com/in/alice-pais-de-castro/" target="_blank" class="group text-center block hover:no-underline">
+    <div class="profile-img-container w-24 h-24 mx-auto rounded-full bg-slate-200 mb-4 shadow-md border-2 border-white relative">
+        <div class="absolute inset-0 bg-blue-600/50 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+            <i class="fa-brands fa-linkedin-in text-white text-xl"></i>
+        </div>
+        <img src="" alt="Alice Pais de Castro" class="w-full h-full object-cover rounded-full">
+    </div>
+    <h4 class="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition">Alice Pais de Castro</h4>
+    <p class="text-xs text-blue-500 font-semibold mt-1">Topic 5</p>
+</a>
+
+
